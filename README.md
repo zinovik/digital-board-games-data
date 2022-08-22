@@ -1,6 +1,6 @@
 Main repository: https://github.com/zinovik/digital-board-games
 
-Interfaces:
+Interface:
 
 ```typescript
 interface DigitalBoardGamesData {
