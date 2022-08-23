@@ -5,6 +5,9 @@ const BGG_GAMES_URL =
 
 const digitalBoardGames = require("../digital-board-games.json");
 
+const GAMES_TO_CHECK = 500;
+const NAME_ID_SEPARATOR = "|";
+
 const request = (url) =>
   new Promise((resolve, reject) => {
     https
@@ -24,9 +27,18 @@ const request = (url) =>
   const bggGames = await request(BGG_GAMES_URL);
 
   bggGames.games.forEach((game) => {
+    if (game.rank > GAMES_TO_CHECK) {
+      return;
+    }
+
     if (
-      game.rank < 500 &&
-      !Object.keys(digitalBoardGames).includes(game.name)
+      !Object.keys(digitalBoardGames).some((digitalBoardGameName) => {
+        const separatorIndex = digitalBoardGameName.indexOf(NAME_ID_SEPARATOR);
+
+        if (separatorIndex === -1) return game.name === digitalBoardGameName;
+
+        return game.id === digitalBoardGameName.slice(separatorIndex + 1);
+      })
     ) {
       console.log(`${game.rank} ${game.name} (${game.year})`);
     }
