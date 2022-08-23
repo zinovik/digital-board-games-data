@@ -1,7 +1,7 @@
 const https = require("https");
 
 const BGG_GAMES_URL =
-  "https://bgg-games-ranks-zinovik.vercel.app/api/get-games?amount=2000";
+  "https://bgg-games-ranks.vercel.app/api/get-games?amount=2000";
 
 const digitalBoardGames = require("../digital-board-games.json");
 
