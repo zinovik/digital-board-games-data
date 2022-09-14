@@ -1,4 +1,5 @@
 const fs = require("fs");
+const { exec } = require("child_process");
 
 const DIGITAL_BOARD_GAMES_FILE_PATH = "./digital-board-games.json";
 
@@ -20,3 +21,5 @@ fs.writeFileSync(
   DIGITAL_BOARD_GAMES_FILE_PATH,
   JSON.stringify(digitalBoardGamesSorted)
 );
+
+exec(`npx prettier ${DIGITAL_BOARD_GAMES_FILE_PATH} --write`);
