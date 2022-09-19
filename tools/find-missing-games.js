@@ -47,7 +47,15 @@ const request = (url) =>
   console.log("\n---\n");
 
   Object.keys(digitalBoardGames).forEach((digitalBoardGameName) => {
-    if (!bggGames.games.some((game) => game.name === digitalBoardGameName)) {
+    if (
+      !bggGames.games.some((game) => {
+        const separatorIndex = digitalBoardGameName.indexOf(NAME_ID_SEPARATOR);
+
+        if (separatorIndex === -1) return game.name === digitalBoardGameName;
+
+        return game.id === digitalBoardGameName.slice(separatorIndex + 1);
+      })
+    ) {
       console.log(digitalBoardGameName);
     }
   });
