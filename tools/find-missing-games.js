@@ -1,11 +1,11 @@
 const https = require("https");
 
 const BGG_GAMES_URL =
-  "https://bgg-games-ranks.vercel.app/api/get-games?amount=2000";
+  "https://raw.githubusercontent.com/zinovik/bgg-games-ranks-data/main/bgg-games-ranks.json";
 
 const digitalBoardGames = require("../digital-board-games.json");
 
-const GAMES_TO_CHECK = 500;
+const GAMES_TO_CHECK = 600;
 const NAME_ID_SEPARATOR = "|";
 
 const request = (url) =>

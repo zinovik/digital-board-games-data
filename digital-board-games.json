@@ -83,6 +83,7 @@
     "https://play.google.com/store/apps/details?id=com.digidiced.abvrelease",
     "https://apps.apple.com/us/app/agricola-all-creatures-2p/id1118398079"
   ],
+  "Air, Land, & Sea": [],
   "Airlines Europe": [],
   "Alchemists": ["http://boiteajeux.net"],
   "Alhambra": [
@@ -171,6 +172,7 @@
   ],
   "Beyond the Sun": ["https://boardgamearena.com/gamepanel?game=beyondthesun"],
   "Biblios": [],
+  "Bitoku": [],
   "Black Orchestra": [],
   "Blackout: Hong Kong": [],
   "Blitzkrieg!: World War Two in 20 Minutes": [],
@@ -200,6 +202,7 @@
     "https://store.steampowered.com/app/677650/Brass",
     "https://brass.orderofthehammer.com"
   ],
+  "Broom Service": [],
   "Bruges": ["https://yucata.de/en/Invite/Bruges"],
   "Bruxelles 1893": ["http://boiteajeux.net"],
   "Bunny Kingdom": [
@@ -397,6 +400,7 @@
   "Cyclades": [
     "https://steamcommunity.com/sharedfiles/filedetails/?id=734722020"
   ],
+  "Dawn of the Zeds (Third Edition)": [],
   "Dead of Winter: A Crossroads Game": [],
   "Dead of Winter: The Long Night": [],
   "Deception: Murder in Hong Kong": [],
@@ -504,6 +508,7 @@
   "Expedition: Northwest Passage": [
     "https://boardgamearena.com/gamepanel?game=northwestpassage"
   ],
+  "Fantastic Factories": [],
   "Fantasy Realms": [],
   "Fearsome Floors": [
     "https://yucata.de/en/Invite/Floors",
@@ -521,6 +526,7 @@
   "Flamme Rouge": ["https://teleflammerouge.netsons.org/en"],
   "Flash Point: Fire Rescue": [],
   "Fleet": ["https://boardgamearena.com/gamepanel?game=fleet"],
+  "Fleet: The Dice Game": [],
   "Food Chain Magnate": ["http://play.boardgamecore.net"],
   "For Sale": ["https://boardgamearena.com/gamepanel?game=forsale"],
   "Forbidden Desert": [],
@@ -636,6 +642,7 @@
   "Hero Realms": ["https://tabletopia.com/games/ww-hero-realms"],
   "Heroscape Master Set: Rise of the Valkyrie": [],
   "Hey, That's My Fish!": ["https://yucata.de/en/Invite/Helios"],
+  "High Society": [],
   "Hive": [
     "https://boardgamearena.com/gamepanel?game=hive",
     "https://play.google.com/store/apps/details?id=com.jb.hive.android",
@@ -643,6 +650,7 @@
     "https://boardspace.net"
   ],
   "Homesteaders": ["https://boardgamearena.com/gamepanel?game=homesteaders"],
+  "Honey Buzz": [],
   "Horrified": [],
   "Imhotep": [
     "https://boardgamearena.com/gamepanel?game=imhotep",
@@ -680,6 +688,7 @@
     "https://play.google.com/store/apps/details?id=com.meepletouch.jaipur",
     "https://apps.apple.com/us/app/jaipur-the-board-game/id1193262249"
   ],
+  "Jamaica": [],
   "Jump Drive": ["https://boardgamearena.com/gamepanel?game=jumpdrive"],
   "Junk Art": [],
   "Just One": [
@@ -803,6 +812,7 @@
     "https://apps.apple.com/us/app/love-letter-card-game/id1412772177",
     "https://store.steampowered.com/app/926520/Love_Letter"
   ],
+  "Love Letter: Premium Edition": [],
   "Luna": ["https://yucata.de/en/Invite/Luna"],
   "Luxor": ["https://boardgamearena.com/gamepanel?game=luxor"],
   "Macao": ["https://yucata.de/en/Invite/Macao"],
@@ -1108,6 +1118,7 @@
     "https://apps.apple.com/us/app/root-board-game/id1439262206",
     "https://store.steampowered.com/app/965580/Root"
   ],
+  "Runebound (Third Edition)": [],
   "Runewars": [],
   "Russian Railroads": [
     "https://boardgamearena.com/gamepanel?game=russianrailroads",
@@ -1117,6 +1128,7 @@
     "https://boardgamearena.com/gamepanel?game=saboteur",
     "http://brettspielwelt.de/Spiele/Saboteur"
   ],
+  "Sagani": ["https://yucata.de/en/Invite/Sagani"],
   "Sagrada": [
     "https://play.google.com/store/apps/details?id=com.direwolfdigital.sagrada",
     "https://apps.apple.com/us/app/sagrada/id1439244077",
@@ -1239,6 +1251,7 @@
   "Star Wars: Rebellion": [
     "https://steamcommunity.com/sharedfiles/filedetails/?id=674546583"
   ],
+  "Star Wars: X-Wing (Second Edition)": [],
   "Star Wars: X-Wing Miniatures Game": [],
   "Star Wars: X-Wing Miniatures Game – The Force Awakens Core Set": [],
   "StarCraft: The Board Game": [],
@@ -1266,6 +1279,7 @@
     "https://play.google.com/store/apps/details?id=com.blacklistgamesllc.StreetMasters.pro",
     "https://apps.apple.com/us/app/street-masters/id1522480305"
   ],
+  "Struggle of Empires": [],
   "Stuffed Fables": [],
   "Suburbia": [
     "https://play.google.com/store/apps/details?id=com.suburbiagame.suburbia",
@@ -1435,6 +1449,7 @@
   "Through the Ages: A Story of Civilization": [
     "https://boardgamearena.com/gamepanel?game=throughtheages"
   ],
+  "Through the Desert": [],
   "Thunderstone": ["https://yucata.de/en/Invite/Thunderstone"],
   "Thunderstone Quest": [],
   "Thurn and Taxis": [
@@ -1524,6 +1539,7 @@
   ],
   "Unmatched: Cobble & Fog": [],
   "Unmatched: Robin Hood vs. Bigfoot": [],
+  "Valeria: Card Kingdoms": [],
   "Valletta": ["https://yucata.de/en/Invite/Valletta"],
   "Vanuatu": ["http://boiteajeux.net"],
   "Vikings": ["https://yucata.de/en/Invite/Vikings"],
@@ -1595,5 +1611,6 @@
     "https://yucata.de/en/Invite/Yspahan"
   ],
   "ZÈRTZ": ["http://boiteajeux.net"],
-  "Zombicide: Black Plague": []
+  "Zombicide: Black Plague": [],
+  "Zombie Kidz Evolution": []
 }
