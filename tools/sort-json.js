@@ -22,6 +22,7 @@ fs.writeFileSync(
   JSON.stringify(digitalBoardGamesSorted)
 );
 
+console.log("Formatting file...");
 exec(`npx prettier ${DIGITAL_BOARD_GAMES_FILE_PATH} --write`, (error) => {
   if (!error) console.log("Done!");
   else console.log(error);
