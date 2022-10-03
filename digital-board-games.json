@@ -677,7 +677,9 @@
     "https://boardgamearena.com/gamepanel?game=innovation",
     "https://yucata.de/en/Invite/Innovation"
   ],
-  "Isle of Skye: From Chieftain to King": [],
+  "Isle of Skye: From Chieftain to King": [
+    "https://play.google.com/store/apps/details?id=com.digidiced.ixsrelease"
+  ],
   "Istanbul": [
     "https://play.google.com/store/apps/details?id=com.acram.Istanbul",
     "https://apps.apple.com/us/app/istanbul-digital-edition/id1296756606",
@@ -711,7 +713,7 @@
     "https://apps.apple.com/us/app/kahuna/id774875399"
   ],
   "Kamisado": ["https://yucata.de/en/Invite/Kamisado"],
-  "Kanban EV": [],
+  "Kanban EV": ["https://gameswithtony.com/kanbanev"],
   "Kanban: Driver's Edition": ["http://boiteajeux.net"],
   "Karuba": [],
   "Kashgar: Merchants of the Silk Road": [
@@ -838,7 +840,9 @@
   "Maquis": [
     "https://play.google.com/store/apps/details?id=org.boardnaut.studios.maquis.android"
   ],
-  "Maracaibo": [],
+  "Maracaibo": [
+    "https://play.google.com/store/apps/details?id=com.scatterbrainstudios.maracaibo"
+  ],
   "Marco Polo II: In the Service of the Khan": [
     "https://boardgamearena.com/gamepanel?game=marcopolotwo"
   ],
@@ -847,7 +851,9 @@
     "https://boardgamearena.com/gamepanel?game=marrakech",
     "https://tabletopia.com/games/marrakech"
   ],
-  "Marvel Champions: The Card Game": [],
+  "Marvel Champions: The Card Game": [
+    "https://steamcommunity.com/sharedfiles/filedetails/?id=2514286571"
+  ],
   "Marvel United": [],
   "Mascarade": ["https://boardgamearena.com/gamepanel?game=mascarade"],
   "Masons": ["https://yucata.de/en/Invite/Mauerbauer"],
