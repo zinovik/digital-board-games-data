@@ -55,6 +55,7 @@
     "http://www.lantsev1981.pro",
     "https://swordsandravens.net"
   ],
+  "A Game of Thrones: The Card Game (Second Edition)": [],
   "Abalone": ["https://boardgamearena.com/gamepanel?game=abalone"],
   "Abandon All Artichokes": [
     "https://boardgamearena.com/gamepanel?game=abandonallartichokes"
@@ -95,7 +96,7 @@
   ],
   "Alien Frontiers": ["https://tabletopia.com/games/alien-frontiers"],
   "Altiplano": ["https://tabletopia.com/games/altiplano"],
-  "Amerigo": [],
+  "Amerigo": ["https://boardgamearena.com/gamepanel?game=amerigo"],
   "Amun-Re": [],
   "Amyitis": ["https://boardgamearena.com/gamepanel?game=amyitis"],
   "Anachrony": ["https://tabletopia.com/games/anachrony"],
@@ -180,6 +181,7 @@
   "Black Rose Wars": [],
   "Blackout: Hong Kong": [],
   "Blitzkrieg!: World War Two in 20 Minutes": [],
+  "Blood Bowl (2016 Edition)": [],
   "Blood Bowl (Third Edition)": [],
   "Blood Bowl: Living Rulebook": [],
   "Blood Bowl: Team Manager – The Card Game": [],
@@ -255,6 +257,7 @@
     "https://apps.apple.com/us/app/cartographers/id1515991485",
     "https://happymeeple.com/en/board-games/cartographers/overview"
   ],
+  "Cartographers Heroes": [],
   "Cascadia": [
     "https://tabletopia.com/games/cascadia",
     "https://cascadiagame.github.io"
@@ -299,7 +302,9 @@
     "https://gog.com/game/charterstone_digital_edition"
   ],
   "Chess": ["https://boardgamearena.com/gamepanel?game=chess"],
-  "Chicago Express": [],
+  "Chicago Express": [
+    "https://boardgamearena.com/gamepanel?game=chicagoexpress"
+  ],
   "Chimera Station": [
     "https://boardgamearena.com/gamepanel?game=chimerastation"
   ],
@@ -578,6 +583,7 @@
   "Gang of Four": [
     "https://play.google.com/store/apps/details?id=com.asmodeedigital.gangoffour"
   ],
+  "Gears of War: The Board Game": [],
   "Ghost Stories": [],
   "Ginkgopolis": [
     "https://boardgamearena.com/gamepanel?game=ginkgopolis",
@@ -945,6 +951,7 @@
   "Nova Luna": ["https://boardgamearena.com/gamepanel?game=novaluna"],
   "Nusfjord": [],
   "Oath: Chronicles of Empire and Exile": [],
+  "Oathsworn: Into the Deepwood": [],
   "Obsession": ["https://boardgamearena.com/gamepanel?game=obsession"],
   "Oceans": [
     "https://play.google.com/store/apps/details?id=com.northstargames.oceans",
@@ -979,6 +986,9 @@
   "Oriflamme": ["https://boardgamearena.com/gamepanel?game=oriflamme"],
   "Orléans": ["https://tabletopia.com/games/orleans"],
   "P.I.": ["https://boardgamearena.com/gamepanel?game=pi"],
+  "Paint the Roses": [
+    "https://boardgamearena.com/gamepanel?game=painttheroses"
+  ],
   "Paladins of the West Kingdom": [
     "https://tabletopia.com/games/paladins-of-the-west-kingdom"
   ],
@@ -1114,6 +1124,7 @@
     "https://boardgamearena.com/gamepanel?game=redsevengame",
     "https://yucata.de/en/Invite/Red7"
   ],
+  "Renature": ["https://yucata.de/en/Invite/Renature"],
   "Res Arcana": [
     "https://boardgamearena.com/gamepanel?game=resarcana",
     "https://steamcommunity.com/sharedfiles/filedetails/?id=1788798370"
@@ -1184,6 +1195,7 @@
     "https://apps.apple.com/us/app/santorini-board-game/id1456647343"
   ],
   "Schotten Totten": [],
+  "SCOUT": [],
   "Scythe": [
     "https://tabletopia.com/games/scythe",
     "https://store.steampowered.com/app/446980/Tabletop_Simulator__Scythe",
@@ -1317,6 +1329,7 @@
     "https://play.google.com/store/apps/details?id=com.suburbiagame.suburbia",
     "https://apps.apple.com/us/app/suburbia-city-building-game/id681966300"
   ],
+  "Summoner Wars (Second Edition)": [],
   "Summoner Wars: Master Set": [],
   "Super Fantasy Brawl": [
     "https://boardgamearena.com/gamepanel?game=superfantasybrawl"
@@ -1452,6 +1465,7 @@
   ],
   "The Quest for El Dorado": [],
   "The Red Cathedral": [],
+  "The Republic of Rome": [],
   "The Resistance": ["http://theresistanceplus.com"],
   "The Resistance: Avalon": [],
   "The Rose King": ["https://yucata.de/en/Invite/Rosenkoenig2"],
@@ -1510,6 +1524,7 @@
     "https://apps.apple.com/us/app/reiner-knizia-tigris-euphrates/id471458190"
   ],
   "Tikal": ["http://spielbyweb.com"],
+  "Time's Up!": [],
   "Time's Up! Title Recall!": [],
   "Tiny Epic Galaxies": [],
   "Tiny Epic Kingdoms": [
@@ -1601,6 +1616,7 @@
     "https://boardspace.net"
   ],
   "War Chest": [
+    "https://boardgamearena.com/gamepanel?game=warchest",
     "https://yucata.de/en/Invite/WarChest",
     "https://warchestonline.com"
   ],
