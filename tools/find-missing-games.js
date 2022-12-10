@@ -5,7 +5,7 @@ const BGG_GAMES_URL =
 
 const digitalBoardGames = require("../digital-board-games.json");
 
-const GAMES_TO_CHECK = 600;
+const GAMES_TO_CHECK = 700;
 const NAME_ID_SEPARATOR = "|";
 
 const request = (url) =>

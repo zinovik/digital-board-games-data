@@ -72,6 +72,9 @@
   "Aeon's End: Legacy": [],
   "Aeon's End: The New Age": [],
   "Aeon's End: War Eternal": [],
+  "Age of Civilization": [
+    "https://boardgamearena.com/gamepanel?game=ageofcivilization"
+  ],
   "Age of Empires III: The Age of Discovery": [],
   "Age of Steam": [],
   "Agricola": ["http://boiteajeux.net", "http://play-agricola.com"],
@@ -163,6 +166,7 @@
   "BattleLore": [],
   "BattleLore: Second Edition": [],
   "Battlestar Galactica: The Board Game": [],
+  "Belfort": [],
   "Betrayal at House on the Hill": [],
   "Betrayal Legacy": [],
   "Between Two Castles of Mad King Ludwig": [
@@ -313,6 +317,7 @@
     "https://boardgamearena.com/gamepanel?game=chocolatefactory"
   ],
   "Chronicles of Crime": [],
+  "Churchill": [],
   "Circle the Wagons": [
     "https://happymeeple.com/en/board-games/circle-the-wagons/overview"
   ],
@@ -397,6 +402,7 @@
     "https://play.google.com/store/apps/details?id=com.folkloregames.Crokinole",
     "https://butchersworkshop.com/crokinole"
   ],
+  "Crusaders: Thy Will Be Done": [],
   "Cryptid": ["https://ospreypublishing.com/playcryptid"],
   "Cthulhu Realms": [
     "https://play.google.com/store/apps/details?id=com.whitewizardgames.cthulhurealms",
@@ -404,6 +410,7 @@
   ],
   "Cthulhu Wars": [],
   "Cthulhu: Death May Die": [],
+  "Cuba": [],
   "Cuba Libre": [],
   "CuBirds": [
     "https://boardgamearena.com/gamepanel?game=cubirds",
@@ -416,6 +423,7 @@
   "Dawn of the Zeds (Third Edition)": [],
   "Dead of Winter: A Crossroads Game": [],
   "Dead of Winter: The Long Night": [],
+  "Dead Reckoning": [],
   "Deception: Murder in Hong Kong": [],
   "Decrypto": [
     "https://whoawhoa.github.io/decrypto",
@@ -444,7 +452,9 @@
   "Die Macher": [],
   "Dinosaur Island": [],
   "Discworld: Ankh-Morpork": [],
+  "Disney Villainous: Wicked to the Core": [],
   "Dixit": ["http://boiteajeux.net", "https://play-dixit.online"],
+  "Dixit: Journey": [],
   "Dixit: Odyssey": [],
   "Dominant Species": ["https://tabletopia.com/games/dominant-species"],
   "Dominion": [
@@ -498,12 +508,14 @@
     "https://boardgamearena.com/gamepanel?game=elgrande",
     "https://yucata.de/en/Invite/ElGrande"
   ],
+  "Elder Sign": [],
   "Eldritch Horror": [],
   "Elfenland": ["https://boardgamearena.com/gamepanel?game=elfenland"],
   "Elysium": [],
   "Eminent Domain": ["https://boardgamearena.com/gamepanel?game=eminentdomain"],
   "Endeavor": [],
   "Endeavor: Age of Sail": [],
+  "Endless Winter: Paleoamericans": [],
   "Escape Plan": [],
   "Escape: The Curse of the Temple": [
     "https://boardgamearena.com/gamepanel?game=escapethecurseofthetemple"
@@ -522,6 +534,7 @@
   "Evolution: Climate": [],
   "Exit: The Game – Dead Man on the Orient Express": [],
   "Exit: The Game – The Abandoned Cabin": [],
+  "Exit: The Game – The Pharaoh's Tomb": [],
   "Expedition: Northwest Passage": [
     "https://boardgamearena.com/gamepanel?game=northwestpassage"
   ],
@@ -531,6 +544,7 @@
     "https://yucata.de/en/Invite/Floors",
     "http://boiteajeux.net"
   ],
+  "Feudum": [],
   "Fields of Arle": ["https://yucata.de/en/Invite/FieldsOfArle"],
   "Finca": ["https://yucata.de/en/Invite/Finca"],
   "Fire in the Lake": [],
@@ -553,7 +567,9 @@
   "Forbidden Stars": [],
   "Forgotten Waters": [],
   "Formula D": [],
+  "Fort": [],
   "Forum Trajanum": ["https://yucata.de/en/Invite/Trajanum"],
+  "Foundations of Rome": [],
   "Founding Fathers": ["https://yucata.de/en/Invite/FoundingFathers"],
   "Francis Drake": [],
   "Freedom: The Underground Railroad": [],
@@ -563,6 +579,7 @@
     "https://apps.apple.com/us/app/friday-by-friedemann-friese/id1222916942"
   ],
   "Furnace": [],
+  "Fury of Dracula (Second Edition)": [],
   "Fury of Dracula (Third/Fourth Edition)": [
     "https://play.google.com/store/apps/details?id=com.nomadgames.furyofdracula",
     "https://apps.apple.com/us/app/fury-of-dracula/id1499802612",
@@ -660,6 +677,7 @@
   "Helios": ["https://yucata.de/en/Invite/Fish"],
   "Here I Stand": [],
   "Hero Realms": ["https://tabletopia.com/games/ww-hero-realms"],
+  "HeroQuest": [],
   "Heroscape Master Set: Rise of the Valkyrie": [],
   "Hey, That's My Fish!": ["https://yucata.de/en/Invite/Helios"],
   "High Society": [],
@@ -672,6 +690,7 @@
   "Homesteaders": ["https://boardgamearena.com/gamepanel?game=homesteaders"],
   "Honey Buzz": [],
   "Horrified": [],
+  "IKI": [],
   "Imhotep": [
     "https://boardgamearena.com/gamepanel?game=imhotep",
     "https://yucata.de/en/Invite/Imhotep"
@@ -891,6 +910,7 @@
     "https://boardgamearena.com/gamepanel?game=mercadodelisboaste"
   ],
   "Merchants & Marauders": [],
+  "Mexica": [],
   "Mice and Mystics": [],
   "MicroMacro: Crime City": [],
   "Middara: Unintentional Malum – Act 1": [],
@@ -972,6 +992,7 @@
     "https://store.steampowered.com/app/770100/One_Deck_Dungeon"
   ],
   "One Night Ultimate Werewolf": ["https://netgames.io/games/onu-werewolf"],
+  "One Night Ultimate Werewolf: Daybreak": [],
   "Onirim": [
     "https://play.google.com/store/apps/details?id=com.asmodeedigital.onirim",
     "https://apps.apple.com/us/app/onirim-solitaire-card-game/id1191315610"
@@ -1052,6 +1073,7 @@
   "Photosynthesis": [],
   "Pipeline": [],
   "PitchCar": [],
+  "Planet Unknown": [],
   "Point Salad": ["https://boardgamearena.com/gamepanel?game=ginkgopolis"],
   "Polis: Fight for the Hegemony": [
     "https://boardgamearena.com/gamepanel?game=polis",
@@ -1076,6 +1098,7 @@
   ],
   "Pulsar 2849": [],
   "PÜNCT": ["http://boiteajeux.net"],
+  "QE": [],
   "Quadropolis": [],
   "Quantum": ["https://boardgamearena.com/gamepanel?game=quantum"],
   "Quarto": ["https://boardgamearena.com/gamepanel?game=quarto"],
@@ -1219,7 +1242,10 @@
     "https://store.steampowered.com/app/337150/Sentinels_of_the_Multiverse"
   ],
   "Shadows of Brimstone: City of the Ancients": [],
+  "Shadows of Brimstone: Swamps of Death": [],
   "Shadows over Camelot": [],
+  "Shakespeare": [],
+  "Shards of Infinity": [],
   "Sheriff of Nottingham": [],
   "Sherlock Holmes Consulting Detective: Jack the Ripper & West End Adventures": [],
   "Sherlock Holmes Consulting Detective: The Thames Murders & Other Cases": [],
@@ -1242,6 +1268,7 @@
   ],
   "Small World Underground": [],
   "Smartphone Inc.": ["https://tabletopia.com/games/smartphone-inc"],
+  "Smash Up: Awesome Level 9000": [],
   "Snowdonia": ["https://yucata.de/en/Invite/Snowdonia"],
   "So Clover!": [],
   "Sobek": [
@@ -1288,6 +1315,7 @@
   ],
   "Star Realms: Colony Wars": [],
   "Star Realms: Frontiers": [],
+  "Star Trek: Ascendancy": [],
   "Star Wars: Armada": [],
   "Star Wars: Destiny": [],
   "Star Wars: Imperial Assault": [],
@@ -1329,6 +1357,7 @@
     "https://play.google.com/store/apps/details?id=com.suburbiagame.suburbia",
     "https://apps.apple.com/us/app/suburbia-city-building-game/id681966300"
   ],
+  "Summoner Wars": [],
   "Summoner Wars (Second Edition)": [],
   "Summoner Wars: Master Set": [],
   "Super Fantasy Brawl": [
@@ -1369,6 +1398,7 @@
   ],
   "Tekhenu: Obelisk of the Sun": [],
   "Telestrations": [],
+  "Telestrations: 12 Player Party Pack": [],
   "Teotihuacan: City of Gods": [
     "https://boardgamearena.com/gamepanel?game=teotihuacan",
     "https://tabletopia.com/games/teotihuacan-city-of-gods"
@@ -1546,15 +1576,18 @@
   "Too Many Bones: Undertow": [],
   "Torres": ["https://yucata.de/en/Invite/Torres", "http://boiteajeux.net"],
   "Tournay": ["https://boardgamearena.com/gamepanel?game=tournay"],
+  "Trails of Tucana": [],
   "Trains": [],
   "Trajan": ["http://boiteajeux.net"],
   "Transatlantic": ["https://yucata.de/en/Invite/Transatlantic"],
+  "Treasure Island": [],
   "Trekking the World": [
     "https://boardgamearena.com/gamepanel?game=trekkingtheworld"
   ],
   "Trickerion: Legends of Illusion": [
     "https://tabletopia.com/games/trickerion-legends-of-illusion"
   ],
+  "Triumph & Tragedy: European Balance of Power 1936-1945": [],
   "Troyes": ["https://boardgamearena.com/gamepanel?game=troyes"],
   "Troyes Dice": ["https://boardgamearena.com/gamepanel?game=troyesdice"],
   "Turn the Tide": ["https://boardgamearena.com/gamepanel?game=turnthetide"],
@@ -1582,6 +1615,7 @@
     "https://boardgamearena.com/gamepanel?game=unconditionalsurrender"
   ],
   "Undaunted: Normandy": [],
+  "Undaunted: North Africa": [],
   "Under Falling Skies": [],
   "Underwater Cities": ["https://yucata.de/en/Invite/UnderwaterCities"],
   "Unlock!: Heroic Adventures": [],
@@ -1637,6 +1671,7 @@
     "https://steamcommunity.com/sharedfiles/filedetails/?id=2030704196"
   ],
   "Western Legends": [],
+  "Whitehall Mystery": [],
   "Wingspan": [
     "https://boardgamearena.com/gamepanel?game=wingspan",
     "https://tabletopia.com/games/wingspan",
