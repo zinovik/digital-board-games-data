@@ -392,7 +392,8 @@
   "Cosmic Encounter": [],
   "Cottage Garden": [
     "https://play.google.com/store/apps/details?id=com.digidiced.cxgrelease",
-    "https://apps.apple.com/us/app/cottage-garden/id1267856477"
+    "https://apps.apple.com/us/app/cottage-garden/id1267856477",
+    "https://store.steampowered.com/app/716090/Cottage_Garden"
   ],
   "Coup": [
     "https://boardgamearena.com/gamepanel?game=coupcitystate",
@@ -667,6 +668,7 @@
   "Hannibal: Rome vs. Carthage": [],
   "Hansa Teutonica": [
     "https://tabletopia.com/games/hansa-teutonica",
+    "https://hansa.vercel.app",
     "https://gameparlor.online"
   ],
   "Harbour": ["https://boardgamearena.com/gamepanel?game=harbour"],
