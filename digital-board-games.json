@@ -235,6 +235,7 @@
   "Campaign Manager 2008": ["https://yucata.de/en/Invite/CampaignManager"],
   "Can't Stop": ["https://boardgamearena.com/gamepanel?game=cantstop"],
   "Canvas": [],
+  "Caper: Europe": ["https://boardgamearena.com/gamepanel?game=capereurope"],
   "Captain Sonar": [
     "https://steamcommunity.com/sharedfiles/filedetails/?id=750638132"
   ],
@@ -1077,7 +1078,9 @@
     "https://play.google.com/store/apps/details?id=com.asmodeedigital.perudoofficial",
     "https://apps.apple.com/us/app/perudo-the-pirate-board-game/id1199019940"
   ],
-  "Photosynthesis": [],
+  "Photosynthesis": [
+    "https://boardgamearena.com/gamepanel?game=photosynthesis"
+  ],
   "Pipeline": [],
   "PitchCar": [],
   "Planet Unknown": [],
